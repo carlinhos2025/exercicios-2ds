@@ -1,0 +1,14 @@
+/* div como block */
+div {
+    display: block;
+}
+
+/* span como inline-block */
+span {
+    display: inline-block;
+}
+
+/* p oculto */
+p {
+    display: none;
+}

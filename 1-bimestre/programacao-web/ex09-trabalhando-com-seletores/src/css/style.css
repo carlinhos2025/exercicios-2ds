@@ -1,0 +1,16 @@
+/* Estilo para o id #titulo */
+#titulo {
+    text-align: center;
+    font-size: 36px;
+}
+
+/* Estilo para a classe .destaque */
+.destaque {
+    color: red;
+    font-weight: bold;
+}
+
+/* Estilo para todos os parágrafos */
+p {
+    font-family: Arial, sans-serif;
+}
