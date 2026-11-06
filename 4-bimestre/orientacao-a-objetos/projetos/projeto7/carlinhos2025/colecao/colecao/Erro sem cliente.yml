@@ -1,0 +1,15 @@
+info:
+  name: Erro sem cliente
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:3000/ordens
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
