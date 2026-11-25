@@ -1,10 +1,13 @@
 {
-  "name": "projeto8-carlinhos2025",
+  "name": "cinema-ingressos",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
-    "test": "jest"
+  "test": "jest"
   },
   "keywords": [],
   "author": "",
